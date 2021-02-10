@@ -7,6 +7,7 @@ I've been programming C++ and C# for around three years, mainly working on [MxEn
 I have a personal blog where I post some cool stuff about programming, mostly gamedev: https://momodeve.github.io. Also, if you are from Russia, you may be interested in my [Habr account](https://habr.com/ru/users/momodev/posts/), where I sometimes post programming tutorials or translate foreign articles.
 
 #### My Contacts
+- linkedin: [Alexander Potapov](https://www.linkedin.com/in/alexander-potapov)
 - email: alexander.potapov.w@yandex.ru
 - telegram: [@momodeve](https://t.me/momodeve)
 - discord: [Momo#9753](https://discord.com)
