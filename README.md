@@ -1,8 +1,8 @@
 ### Hi there!
 
-I'm Alex aka MomoDeve, a 3D graphics developer, a student and a game engine enthusiast
+I'm Alex aka MomoDeve, a game engine enthusiast, currently working at Eagle Dynamics as rendering engineer.
 
-I've been programming C++ and C# for around three years, mainly working on [MxEngine](https://github.com/asc-community/MxEngine) game engine and [Vulkan Abstraction Layer](https://github.com/vkdev-team/VulkanAbstractionLayer) - Vulkan render graph library. My previous experience also include my own programming language - [MSL](https://github.com/MomoDeve/MSL) (bison parser + custom bytecode + own VM) and mono runtime binder for C++ - [monobind](https://github.com/asc-community/monobind). I am member of [ASC community](https://github.com/asc-community), and help to develop other cool open-source projects, such as [AngouriMath](https://github.com/asc-community/AngouriMath) (symbolic math engine in C#) created by [WhiteBlackGoose](https://github.com/WhiteBlackGoose)
+Programming mostly C++ (~3 years), working on open-source game engine at my free time - [MxEngine](https://github.com/asc-community/MxEngine). Also experimenting with Vulkan API here - [Vulkan Abstraction Layer](https://github.com/vkdev-team/VulkanAbstractionLayer). Before gamedev worked on compilers and programming language design. Sometimes help to develop other cool open-source projects, such as [AngouriMath](https://github.com/asc-community/AngouriMath) (made by my friend [WhiteBlackGoose](https://github.com/WhiteBlackGoose))
 
 I have a personal blog where I post some cool stuff about programming, mostly game engine dev: https://momodeve.github.io. Also, if you are from Russia, you may be interested in my [Habr account](https://habr.com/ru/users/momodev/posts/), where I sometimes post programming tutorials or translate foreign articles.
 
