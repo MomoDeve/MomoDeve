@@ -11,4 +11,3 @@ I have a personal blog where I post some cool stuff about programming, mostly ga
 - email: alexander.potapov.w@yandex.ru
 - telegram: [@momodeve](https://t.me/momodeve)
 - discord: [Momo#9753](https://discord.com)
-- telegram blog: [@momodeve_blog](https://t.me/momodeve_blog)
