@@ -1,6 +1,6 @@
 ### Hi there!
 
-I'm Alex aka MomoDeve, a 3D Graphics & Frontend enthusiast, currently working at [Bricks](https://www.linkedin.com/company/the-bricks-inc/) as Frontend Developer.
+I'm Alex aka MomoDeve, a 3D Graphics & Frontend software engineer, currently working at [Bricks](https://www.linkedin.com/company/the-bricks-inc/) as Frontend Developer.
 
 I'm programming mostly C++ (~3 years), have some open-source projects like [MxEngine](https://github.com/asc-community/MxEngine) and [Vulkan Abstraction Layer](https://github.com/vkdev-team/VulkanAbstractionLayer). Also worked on compilers and programming language design. Sometimes help to develop other cool open-source projects, such as [AngouriMath](https://github.com/asc-community/AngouriMath) (made by my friend [WhiteBlackGoose](https://github.com/WhiteBlackGoose))
 
